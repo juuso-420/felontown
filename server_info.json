@@ -1,16 +1,17 @@
 [
     {"ip": "0.0.0.0", "port": 12345},
-    {"ip": "91.155.171.213", "port": 12345},
-    {"ip": "91.155.171.213", "port": 12346},
-    {"ip": "91.155.171.213", "port": 12348},
-    {"ip": "91.155.171.213", "port": 12349},
-    {"ip": "91.155.171.213", "port": 12350},
-    {"ip": "91.155.171.213", "port": 12351},
-    {"ip": "91.155.171.213", "port": 12352},
-    {"ip": "91.155.171.213", "port": 12353},
-    {"ip": "91.155.171.213", "port": 12354},
-    {"ip": "91.155.171.213", "port": 12355},
-    {"ip": "91.155.171.213", "port": 12356},
-    {"ip": "91.155.171.213", "port": 12357}
+    {"ip": "priima.fin-tech.com", "port": 12345},
+    {"ip": "priima.fin-tech.com", "port": 12346},
+    {"ip": "priima.fin-tech.com", "port": 12348},
+    {"ip": "priima.fin-tech.com", "port": 12349},
+    {"ip": "priima.fin-tech.com", "port": 12350},
+    {"ip": "priima.fin-tech.com", "port": 12351},
+    {"ip": "priima.fin-tech.com", "port": 12352},
+    {"ip": "priima.fin-tech.com", "port": 12353},
+    {"ip": "priima.fin-tech.com", "port": 12354},
+    {"ip": "priima.fin-tech.com", "port": 12355},
+    {"ip": "priima.fin-tech.com", "port": 12356},
+    {"ip": "priima.fin-tech.com", "port": 12357}
 ]
+
 
